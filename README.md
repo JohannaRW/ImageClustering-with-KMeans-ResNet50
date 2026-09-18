@@ -5,7 +5,7 @@ The analysis was conducted on 11,638 images.
 The original image data are not publicly available due to ethical and/or data protection considerations. 
 
 Run:
-python 00_komplett_Main_Feature_Auswahl.py
+python Main_KMeans.py
 
 Clusters: 5
 
